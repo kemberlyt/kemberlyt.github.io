@@ -1,6 +1,7 @@
 .header{
 display:flex;
-justify-content: space-around; 
+justify-content: space-evenly;
+background-color: #D2C9B8;
 
 }
 
@@ -29,3 +30,20 @@ h1{
 body{
     background-color:#c7ccbb;
 }
+
+a:hover { 
+    background-color: pink;
+}
+
+a{
+    color:black;
+}
+
+img{
+    vertical-align: middle;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+    
+
