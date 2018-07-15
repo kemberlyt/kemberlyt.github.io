@@ -1,0 +1,31 @@
+.header{
+display:flex;
+justify-content: space-around; 
+
+}
+
+.row{
+    display:flex;
+    justify-content:space-around;
+    background-color:#faedca;
+}
+
+p{
+color:black;
+font-family: 'Questrial', sans-serif;
+}
+
+#headshot{
+    width:20px;
+    height:20px;
+}
+
+
+h1{
+    font-size:60px;
+    font-family: 'Anton', sans-serif;
+}
+
+body{
+    background-color:#c7ccbb;
+}
